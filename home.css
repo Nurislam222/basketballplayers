@@ -1,0 +1,55 @@
+.container-fluid
+{
+	background-color:#403DE8;
+}
+main
+{
+	background-color:#19E508;
+	height: 800px;
+}
+.img
+{
+	width: 230px;
+	height: 180px;
+}
+.main
+{
+	display:flex ;
+	justify-content: space-around;
+}
+.p1
+{
+	font-size:20px ;
+}
+.img1
+{
+	width: 230px;
+	height: 180px;
+}
+.p2
+{
+	font-size: 20px;
+}
+.main1
+{
+	display: flex;
+	justify-content: space-around;
+	margin-top: 50px;
+}
+footer
+{
+	background-color:#C139BB;
+	height: 102px;
+}
+.p3
+{
+	font-size: 35px;
+}
+.p4
+{
+	font-size: 30px;
+}
+.p5
+{
+	font-size: 35px;
+}

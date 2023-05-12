@@ -1,0 +1,43 @@
+.container-fluid
+{
+	background-color:#403DE8;
+}
+main
+{
+	background-color:#19E508;
+	height: 930px;
+}
+footer
+{
+	background-color:#C139BB;
+	height: 102px;
+}
+.b1
+{
+	font-size: 35px;
+}
+.v1
+{
+	width: 150px;
+	height: 150px;
+}
+.q1
+{
+	display:flex;
+	justify-content: space-around;
+	margin-top: 50px;
+	margin-left: 25px;
+}
+.h1
+{
+	font-size: 20px;
+}
+.g1
+{
+	font-size: 25px;
+	margin-left: 20px;
+}
+.m1
+{
+	font-size: 25px;
+}
